@@ -1,5 +1,5 @@
-# 🌴 Welcome to Level 1 of the 2023 EM/Dev Assessment! 🌴
-This is the first and beginning level of the Vanderbilt Data Science dev assignment! In this level, you will be choosing and cleaning a dataset so that it can be used for later analysis.
+# 🌴 Welcome to Level 1 of the 2024 Exec Assessment! 🌴
+This is the first and beginning level of the Vanderbilt Data Science coding assignment! In this level, you will be choosing and cleaning a dataset so that it can be used for later analysis.
 <br><br> 
 Some datasets and their focus questions:
 - [YouTube Channel Niche](https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023), using this dataset, create a model to predict the category or niche of YouTube channels. This is a <b>classification</b> problem.
