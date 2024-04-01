@@ -1,4 +1,4 @@
-# 🏖️ Welcome to Level 2 of the 2023 EM/Dev Assessment! 🏖️
+# 🏖️ Welcome to Level 2 of the 2024 Exec Assessment! 🏖️
 
 Welcome back you wonderful person! In this level, we are going to make a model to solve the problem we chose in Level 1. You may have noticed that we categorized the example focus questions as 'classification' or 'clustering' instead of by what specific algorithm they use, i.e. Naive Bayes or K-means. This is because we want you to choose the algorithm that you think is best suited for your problem!
 
